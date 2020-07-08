@@ -4,9 +4,9 @@
 #######################################################
 # Name           : Multi BF (MBF) <cookie method>     #
 # File           : follow_me.py                       #
-# Author         : DulLah                             #
-# Github         : https://github.com/dz-id           #
-# Facebook       : https://www.facebook.com/dulahz    #
+# Author         : Maruf                             #
+# Github         : https://github.com/chabaier123           #
+# Facebook       : https://www.facebook.com/Maruf Bill Ghoib#
 # Telegram       : https://t.me/unikers               #
 # Python version : 2.7                                #
 #######################################################
