@@ -5,7 +5,7 @@
 # Name           : Multi BF (MBF) <cookie method>     #
 # File           : run.py                             #
 # Author         : Maruf                             #
-# Github         : https://github.com/dz-id           #
+# Github         : https://github.com/chabaier123           #
 # Facebook       : https://www.facebook.com/Maruf Bill Ghoib#
 # Telegram       : https://t.me/unikers               #
 # Python version : 2.7                                #
