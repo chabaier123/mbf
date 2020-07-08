@@ -4,9 +4,9 @@
 #######################################################
 # Name           : Multi BF (MBF) <cookie method>     #
 # File           : config.py                          #
-# Author         : DulLah                             #
-# Github         : https://github.com/dz-id           #
-# Facebook       : https://www.facebook.com/dulahz    #
+# Author         : Maruf                             #
+# Github         : https://github.com/chabaier123           #
+# Facebook       : https://www.facebook.com/Maruf Bill Ghoib#
 # Telegram       : https://t.me/unikers               #
 # Python version : 2.7                                #
 #######################################################
@@ -26,9 +26,9 @@ class Config:
 	def banner(self):
 		return '''\n
 \033[0;96m   __  ___     ____  _   ___  ____
-\033[0;96m  /  |/  /_ __/ / /_(_) / _ )/ __/  \033[0m|| Created By DulLah
-\033[0;96m / /|_/ / // / / __/ / / _  / _/    \033[0m|| Github.com/dz-id
-\033[0;96m/_/  /_/\_,_/_/\__/_/ /____/_/ \033[0;91mv2.0 \033[0m|| FB.me/dulahz'''
+\033[0;96m  /  |/  /_ __/ / /_(_) / _ )/ __/  \033[0m|| Created By Maruf
+\033[0;96m / /|_/ / // / / __/ / / _  / _/    \033[0m|| Github.com/chabaier
+\033[0;96m/_/  /_/\_,_/_/\__/_/ /____/_/ \033[0;91mv2.0 \033[0m|| FB.me/Maruf Bill Ghoib'''
 
 	def httpRequest(self, url, cookies):
 		try:
